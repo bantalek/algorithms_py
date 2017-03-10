@@ -21,6 +21,7 @@ of similarity of two strings. Edit distance has applications in computational
 biology, natural language processing, and spell checking. The goal of this 
 program is to compute the edit distance between two strings.
 """
+
 def edit_distance(a, b):
 
     ly = len(a) + 1
